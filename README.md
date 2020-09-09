@@ -1,12 +1,12 @@
 # QGraphDesigner
-Qt Widget that implements a GUI graph creator and finds the shortest path between any two vertices.
+Qt Widget that has an GUI to create a graph (vertices and edges) and allows to find the shortest path between any two vertices using Bellman-Ford algorithm.
 
 # Usage
 
-This project is an actual widget so you can add it to your project like any other widget. To do that simply copy the contents of headers and source into your project and create a `QGraphDesigner` object in your code </br>
-Also I included a sample project that oly uses this widget for testing and demos.
+This project is based on QtWidget and can be used as such.
+Checkout the example project for testing and demos.
 
 # Video
 
-Here is a descriptive video in which I demonstrate a full user story:</br>
+Here is a descriptive video in which I demonstrate its capabilites:
 [YOUTUBE](https://www.youtube.com/watch?v=93eTmq3y5ng)
